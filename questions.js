@@ -76,11 +76,3 @@ const questions = [
 
 // Don't worry about this, we're just exporting the questions
 module.exports = questions;
-
-{
-  question_text: "",
-  question_type: "multiple_choice",
-  options: ["", "", "", ""],
-  correct_option: option[],
-  correct_explanation: ""
-},
